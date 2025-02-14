@@ -1,0 +1,26 @@
+---
+title: "Khushi Choudhary"
+---
+
+# Welcome to My Dashboard! 🚀
+
+## About Me  
+
+Hello! I'm **Khushi Choudhary**, a Master's student in **Data Science and Analytics** at **California State University, Chico**. Passionate about leveraging data for impactful insights, I specialize in:  
+
+- 📊 **Data Analysis & Visualization**  
+- 🤖 **Machine Learning & Large Language Models (LLMs)**  
+- 🔍 **AI for Social Good & Ethical AI**  
+
+With experience in research and leadership roles, I enjoy working on **real-world data problems**, exploring trends, and making data-driven decisions.  
+
+## Current Work  
+
+🔹 **Data Science Research & Consulting Assistant** at the **Wildcat Data Hub**  
+  - Working on the **NVADAG App**, which streamlines volunteer scheduling and emergency response during wildfires.  
+  - Assisting county staff and volunteers in efficiently coordinating shifts, generating reports, and identifying gaps in coverage.  
+
+🔹 **Teaching Assistant (TA) & Research Assistant (RA)**  
+  - Supporting students in their coursework and research.  
+  - Contributing to the **Adelante Student Grant Research**, focusing on data-driven insights to support student success.  
+
